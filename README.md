@@ -28,6 +28,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Reza Karami](https://github.com/Mohammad-Reza-Karami)
 - [Saed Gholipour](hhtp://github.com/saed-gpr)
 - [Navid Faraji :imp:](https://github.com/sankofa3)
+- [Amin Akhani](https://github.com/itisamin) 
 - [Aydin Aaman Allah Oghli](https://github.com/mr-aydin)
 - [Aydin Aman Allah Oghli](https://github.com/mr-aydin)
 - [mohammad mosayyebnezhad](https://github.com/mohammadmosayyeb)
